@@ -1,4 +1,4 @@
-#!/opt/homebrew/opt/node@20/bin/node
+#!/usr/bin/env node
 /*
     Print a square with the character #
     
